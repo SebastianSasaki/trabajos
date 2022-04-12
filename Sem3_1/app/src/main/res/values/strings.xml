@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppSem03_1</string>
+    <string name="btn_enviar">enviar</string>
+    <string name="mail">Ingrese e-mail</string>
+</resources>
